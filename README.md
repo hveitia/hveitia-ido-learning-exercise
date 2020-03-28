@@ -5,6 +5,9 @@
 
  - Clonar este repositorio  
  ```git clone https://github.com/hveitia/hveitia-ido-learning-exercise.git```
+ 
+ - Moverte hasta la carpeta del proyecto
+  ```cd hveitia-ido-learning-exercise```
 
  - Instalar las dependencias  
 ```npm install```
