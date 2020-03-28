@@ -50,10 +50,22 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqdWFuIiwia
 ```
 
 
-##### Response
+##### Responses
+```
+{
+    "status": "SUCCESS",
+    "data": {
+        "status": "SUCCESS"
+    }
+}
+```
 ```
 {
     "message": "Token expired."
 }
 ```
-
+```
+{
+    "message": "Invalid Token."
+} 
+```
